@@ -14,5 +14,9 @@
     "@rbxts/compiler-types": "^2.1.0-types.1",
     "@rbxts/types": "^1.0.664",
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@rbxts/greedycanvas": "^0.1.8-ts.0",
+    "@rbxts/viewportcanvas": "^1.1.0-ts.0"
   }
 }
